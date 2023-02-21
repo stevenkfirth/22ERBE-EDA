@@ -1,0 +1,16 @@
+ ReadVarsESO
+ processing:C:\Users\cvskf\OneDrive - Loughborough University\_Git\stevenkfirth\22ERBE-EDA\Week_2\1_Input_data\1ZoneUncontrolled.rvi
+ input file:eplusout.eso
+ output file:eplusout.csv
+ getting all vars from:eplusout.eso
+  number variables requested for output=          36
+ ReadVars Run Time=00hr 00min  0.59sec
+ ReadVarsESO program completed successfully.
+ ReadVarsESO
+ processing:C:\Users\cvskf\OneDrive - Loughborough University\_Git\stevenkfirth\22ERBE-EDA\Week_2\1_Input_data\1ZoneUncontrolled.mvi
+ input file:eplusout.mtr
+ output file:eplusmtr.csv
+ getting all vars from:eplusout.mtr
+  number variables requested for output=           3
+ ReadVars Run Time=00hr 00min  0.25sec
+ ReadVarsESO program completed successfully.
