@@ -1,0 +1,35 @@
+[
+    {
+        "pos": 1,
+        "variable": "serialanon",
+        "label": "Key variable: unique archived identifier",
+        "type": "numeric",
+        "SPSS measurement level": "SCALE"
+    },
+    {
+        "pos": 2,
+        "variable": "aagpd1516",
+        "label": "Rounded dwelling weight for 2 year Physical Survey sample",
+        "type": "numeric",
+        "SPSS measurement level": "SCALE"
+    },
+    {
+        "pos": 4,
+        "variable": "tenure8x",
+        "label": "Tenure with vacancy",
+        "type": "numeric",
+        "SPSS measurement level": "NOMINAL",
+        "codes": {
+            "1.0": "owner occupied - occupied",
+            "2.0": "private rented - occupied",
+            "3.0": "local authority - occupied",
+            "4.0": "housing association - occupied",
+            "5.0": "owner occupied - vacant",
+            "6.0": "private rented - vacant",
+            "7.0": "local authority - vacant",
+            "8.0": "housing association - vacant",
+            "-9.0": "Does not apply",
+            "-8.0": "No answer"
+        }
+    }
+]
