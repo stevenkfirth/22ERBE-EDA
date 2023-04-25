@@ -1,0 +1,16 @@
+ ReadVarsESO
+ processing:./1ZoneUncontrolled-225.rvi
+ input file:225out.eso
+ output file:225out.csv
+ getting all vars from:225out.eso
+  number variables requested for output=          36
+ ReadVars Run Time=00hr 00min  0.66sec
+ ReadVarsESO program completed successfully.
+ ReadVarsESO
+ processing:./1ZoneUncontrolled-225.mvi
+ input file:225out.mtr
+ output file:225mtr.csv
+ getting all vars from:225out.mtr
+  number variables requested for output=           3
+ ReadVars Run Time=00hr 00min  0.22sec
+ ReadVarsESO program completed successfully.
